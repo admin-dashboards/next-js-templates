@@ -2,7 +2,7 @@
 
 This page presents a curated list with open-source admin dashboards that are actively supported and versioned. All mentioned products are released under permissive licenses (MIT, LGPL) - Source code can be used in commercial projects. 
 
-> Content curated by [Sm0ke](https://twitter.com/Sm0keDev)
+> Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
 <br />
 
