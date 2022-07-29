@@ -1,6 +1,6 @@
 # [Next JS Themes](https://dev.to/sm0ke/next-js-themes-open-source-and-free-454f)
 
-This page presents a curated list with open-source [Next JS Themes](https://dev.to/sm0ke/next-js-themes-open-source-and-free-454f) (ui kits & dashboard) that are actively supported and versioned. All mentioned products are released under permissive licenses (MIT, LGPL) - Source code can be used in commercial projects. 
+This page presents a curated list with open-source **[Next JS Themes](https://dev.to/sm0ke/next-js-themes-open-source-and-free-454f)** (ui kits & dashboard) that are actively supported and versioned. All mentioned products are released under permissive licenses (MIT, LGPL) - Source code can be used in commercial projects. 
 
 > Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
