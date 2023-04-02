@@ -6,14 +6,6 @@ This page presents a curated list with open-source **[Next JS Themes](https://de
 
 <br />
 
-## 🎁 `PROMO` [MentorCruise](https://mentorcruise.com/?ref=appseed) - `Boost your Knowledge`
-
-> Master your craft with leading mentors at your side. Grow with every online mentoring session and take the next step in your career. 
-
-[![MentorCruise - Master your craft with leading mentors at your side.](https://user-images.githubusercontent.com/51854817/210748975-82c4ab30-0c0f-439e-be97-fedfdf8074fe.gif)](https://mentorcruise.com/?ref=appseed)
-
-<br />
-
 ## ✨ [Next JS Argon Dashboard](https://www.creative-tim.com/product/nextjs-argon-dashboard?AFFILIATE=128200)
 
 Start your development with a Dashboard for NextJS, Bootstrap 4, React and Reactstrap. It is open source, free and it features many components that can help you create amazing websites. NextJS Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining.
